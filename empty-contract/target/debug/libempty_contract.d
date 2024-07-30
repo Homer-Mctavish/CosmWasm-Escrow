@@ -1,0 +1,1 @@
+/home/culi/Documents/GitHub/Cosm-Wasm-Escrow/empty-contract/target/debug/libempty_contract.so: /home/culi/Documents/GitHub/Cosm-Wasm-Escrow/empty-contract/src/contract.rs /home/culi/Documents/GitHub/Cosm-Wasm-Escrow/empty-contract/src/lib.rs /home/culi/Documents/GitHub/Cosm-Wasm-Escrow/empty-contract/src/msg.rs
